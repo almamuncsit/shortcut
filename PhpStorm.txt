@@ -1,0 +1,9 @@
+Ctrl+n              => Find with class name
+Ctrl+Shift+n        => Find by file name
+Alt+up/down         => Move one method to another
+Ctrl+Alt+Shift+n    => Find symbols (Methods)
+Ctrl+Shift+V        => To choose and insert recent clipboard contents into the text.
+Ctrl+B              => Go to Mehods Declaration
+Ctrl+Q              => (View | Quick Documentation)
+Ctrl+Space          => within HTML, CSS and other files, for completing image file names.
+Ctrl+Shift+I        => You can quickly view the image referenced at caret by using the Quick Definition
