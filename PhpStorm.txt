@@ -7,3 +7,5 @@ Ctrl+B              => Go to Mehods Declaration
 Ctrl+Q              => (View | Quick Documentation)
 Ctrl+Space          => within HTML, CSS and other files, for completing image file names.
 Ctrl+Shift+I        => You can quickly view the image referenced at caret by using the Quick Definition
+ALT+ENTER           => in the string’s content and select Edit HTML content. 
+CTRL+F12            => will summon a popup that lets you select a method in the current file
